@@ -12,7 +12,6 @@ public class Cliente {
 
     public static void main(String[] args) {
 
-    	// Comentario para el commit
         // Declaramos variables importantes, el puerto del server y el buffer
         final int puerto = 5900;
         byte[] buffer = new byte[1024];
